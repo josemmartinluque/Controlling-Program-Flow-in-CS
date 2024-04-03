@@ -26,3 +26,4 @@ C:\Users\jose.m.martin.luque\source\repos\Error-Handling-in-CS\WiredBrainCoffeSu
 C:\Users\jose.m.martin.luque\source\repos\Error-Handling-in-CS\WiredBrainCoffeSurveys.Reports\obj\Debug\net8.0\WiredBrainCoffeSurveys.Reports.pdb
 C:\Users\jose.m.martin.luque\source\repos\Error-Handling-in-CS\WiredBrainCoffeSurveys.Reports\obj\Debug\net8.0\WiredBrainCoffeSurveys.Reports.genruntimeconfig.cache
 C:\Users\jose.m.martin.luque\source\repos\Error-Handling-in-CS\WiredBrainCoffeSurveys.Reports\obj\Debug\net8.0\ref\WiredBrainCoffeSurveys.Reports.dll
+C:\Users\jose.m.martin.luque\source\repos\Error-Handling-in-CS\WiredBrainCoffeSurveys.Reports\obj\Debug\net8.0\WiredBrainCoffeSurveys.Reports.sourcelink.json
