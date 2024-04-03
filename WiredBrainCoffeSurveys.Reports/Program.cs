@@ -36,6 +36,8 @@ namespace WiredBrainCoffeeSurveys.Reports
                 tasks.Add("Investigate coffee recipies and ingridients.");
             }
 
+            tasks.Add(overallScore > 8 ? "Work with leadership to reward staff." : "Work with employees for improvement idead.") ;
+
             if (overallScore > 8.0)
             {
                 tasks.Add("Work with leadership to reward staff.");
@@ -58,13 +60,21 @@ namespace WiredBrainCoffeeSurveys.Reports
                 tasks.Add("Reward participants with discount coupon.");
             }
 
+            tasks.Add(Q1Results.AreaToImprove switch
+            {
+                "RewardsProgram" => "Revisit the rewards deals.",
+                "Cleanliness" => "Contact the cleaning vendor.",
+                "MobileApp" => "Contact consulting firm about it.",
+                _ => "Investigate individual comment for ideas."
+            });
+
             switch (Q1Results.AreaToImprove)
             {
                 case "RewardsProgram":
                     tasks.Add("Revisit the rewards deals.");
                     break;
 
-                case "cleanliness":
+                case "Cleanliness":
                     tasks.Add("Contact the cleaning vendor.");
                     break;
 
@@ -72,6 +82,13 @@ namespace WiredBrainCoffeeSurveys.Reports
                     tasks.Add("Contact consulting firm about it.");
                     break;
             }
+
+            var test = Q1Results.AreaToImprove switch
+            {
+                "Granola" => 1,
+                "Latte" => 2,
+                "MobileApp" => 3
+            };
         }
     }
 }
