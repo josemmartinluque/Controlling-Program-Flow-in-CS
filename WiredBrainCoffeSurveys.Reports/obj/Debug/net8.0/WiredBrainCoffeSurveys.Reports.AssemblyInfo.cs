@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WiredBrainCoffeSurveys.Reports")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+745ece9075457f108537b12cb81796c8dd22f8e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d9eb70966088a8805051a54b57e72452e9e8099")]
 [assembly: System.Reflection.AssemblyProductAttribute("WiredBrainCoffeSurveys.Reports")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WiredBrainCoffeSurveys.Reports")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
