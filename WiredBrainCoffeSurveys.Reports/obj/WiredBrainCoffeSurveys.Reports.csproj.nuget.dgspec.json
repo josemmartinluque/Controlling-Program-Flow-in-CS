@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jose.m.martin.luque\\source\\repos\\Error-Handling-in-CS\\WiredBrainCoffeSurveys.Reports\\WiredBrainCoffeSurveys.Reports.csproj": {}
+    "C:\\Users\\jose.m.martin.luque\\source\\repos\\Controlling-Program-Flow-in-CS\\WiredBrainCoffeSurveys.Reports\\WiredBrainCoffeSurveys.Reports.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jose.m.martin.luque\\source\\repos\\Error-Handling-in-CS\\WiredBrainCoffeSurveys.Reports\\WiredBrainCoffeSurveys.Reports.csproj": {
+    "C:\\Users\\jose.m.martin.luque\\source\\repos\\Controlling-Program-Flow-in-CS\\WiredBrainCoffeSurveys.Reports\\WiredBrainCoffeSurveys.Reports.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jose.m.martin.luque\\source\\repos\\Error-Handling-in-CS\\WiredBrainCoffeSurveys.Reports\\WiredBrainCoffeSurveys.Reports.csproj",
+        "projectUniqueName": "C:\\Users\\jose.m.martin.luque\\source\\repos\\Controlling-Program-Flow-in-CS\\WiredBrainCoffeSurveys.Reports\\WiredBrainCoffeSurveys.Reports.csproj",
         "projectName": "WiredBrainCoffeSurveys.Reports",
-        "projectPath": "C:\\Users\\jose.m.martin.luque\\source\\repos\\Error-Handling-in-CS\\WiredBrainCoffeSurveys.Reports\\WiredBrainCoffeSurveys.Reports.csproj",
+        "projectPath": "C:\\Users\\jose.m.martin.luque\\source\\repos\\Controlling-Program-Flow-in-CS\\WiredBrainCoffeSurveys.Reports\\WiredBrainCoffeSurveys.Reports.csproj",
         "packagesPath": "C:\\Users\\jose.m.martin.luque\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jose.m.martin.luque\\source\\repos\\Error-Handling-in-CS\\WiredBrainCoffeSurveys.Reports\\obj\\",
+        "outputPath": "C:\\Users\\jose.m.martin.luque\\source\\repos\\Controlling-Program-Flow-in-CS\\WiredBrainCoffeSurveys.Reports\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jose.m.martin.luque\\AppData\\Roaming\\NuGet\\NuGet.Config",
